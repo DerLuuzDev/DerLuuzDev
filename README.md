@@ -8,5 +8,6 @@ I'm a beginner developer diving deep into fullstack development. Currently, I'm 
 - 💎 Favorite Language: **Rust**
 
 ### 📂 Featured Projects:
-[![AutoHibernate](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=AutoHibernate)](https://github.com/DerLuuzDev/AutoHibernate)
-[![PlaytimePlus](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=PlaytimePlus)](https://github.com/DerLuuzDev/PlaytimePlus)
+| Projekt 1 | Projekt 2 |
+| :---: | :---: |
+| [![AutoHibernate](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=AutoHibernate)](https://github.com/DerLuuzDev/AutoHibernate) | [![PlaytimePlus](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=PlaytimePlus)](https://github.com/DerLuuzDev/PlaytimePlus) |
