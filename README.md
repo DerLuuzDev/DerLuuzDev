@@ -8,5 +8,5 @@ I'm a beginner developer diving deep into fullstack development. Currently, I'm 
 - 💎 Favorite Language: **Rust**
 
 ### 📂 Featured Projects:
-- **[school-library]**: A Rust-based library management system.
-- **[Architectuur]**: Exploring software architecture principles.
+[![AutoHibernate](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=AutoHibernate)](https://github.com/DerLuuzDev/AutoHibernate)
+[![PlaytimePlus](https://github-readme-stats.vercel.app/api/pin/?username=DerLuuzDev&repo=PlaytimePlus)](https://github.com/DerLuuzDev/PlaytimePlus)
